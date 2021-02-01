@@ -1,6 +1,9 @@
 # HealthCare
 
-This project is trying to detect diabetic retinopathy using CNN. This was one of the competition held on Kaggle. This uses Werkzeug, Flask, numpy, Keras, gevent, pillow, h5py and tensorflow and few other packages. 
+Aim of this project is to detect diabetic retinopathy using CNN. This was one of the competition held on Kaggle. This uses Werkzeug, Flask, numpy, Keras, gevent, pillow, h5py and tensorflow and few other packages.
+
+Download the source data from https://www.kaggle.com/c/diabetic-retinopathy-detection/data
+
 
 To use Google Colab with Kaggale API, follow below steps. 
 
